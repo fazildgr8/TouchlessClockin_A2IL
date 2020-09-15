@@ -3,6 +3,7 @@ Touchless clock-in system Designed and deployed a web based application in which
 
 ## Software Dependentcies
 Google Cloud Console SDK - https://cloud.google.com/sdk/docs/install
+
 Python3.7 with Flask -  '''flask filder->requirements.txt'''
 
 ## Cloud Access
