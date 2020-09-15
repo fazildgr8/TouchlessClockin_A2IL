@@ -89,4 +89,5 @@ api.add_resource(LogIn, '/login')
 api.add_resource(Employee, '/emp')
 
 if __name__ == '__main__':
-   app.run(port=5002)
+   app.run(port=443, host = "0.0.0.0",ssl_context='adhoc')
+# ,ssl_context='adhoc'
