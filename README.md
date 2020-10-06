@@ -15,9 +15,11 @@ Angular Frontend from GCP App Engine - https://touchless-281916.ue.r.appspot.com
 
 MongoDB Backend Database Link - 
 
-## Recommended Dlib Instalation 
+Cloud Ubuntu Backend VNC server - 
+
+## Recommended dlib python Instalation 
 Download Source file from - https://github.com/davisking/dlib
-### Before you can run the Python example programs you must compile dlib. Type:
+### Before you can run the Python example programs you must compile dlib
 ```
 python setup.py install
 ```
