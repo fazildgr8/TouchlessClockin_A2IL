@@ -15,4 +15,11 @@ Angular Frontend from GCP App Engine - https://touchless-281916.ue.r.appspot.com
 
 MongoDB Backend Database Link - 
 
+## Recommended Dlib Instalation 
+1. Download Source file from - https://github.com/davisking/dlib
+2. 
+```
+python setup.py install
+```
+
 
