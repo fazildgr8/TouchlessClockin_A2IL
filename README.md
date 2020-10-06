@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1Fldkm1LpCxC5ZtlCFSqYoaFhfwXDdNE2/view?usp=shari
 ## Software Dependentcies
 Google Cloud Console SDK - https://cloud.google.com/sdk/docs/install
 
-Python3.7 with Flask -  ```flask folder->requirements.txt```
+Python3.7 with Flask and install dependencies from ```flask folder->requirements.txt```
 
 ## Cloud Access
 
